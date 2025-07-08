@@ -1,0 +1,21 @@
+# .gitignore
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# VS Code 
+.vscode/
+
+# macOS
+.DS_Store
+ 
