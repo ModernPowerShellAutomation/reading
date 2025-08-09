@@ -48,7 +48,9 @@ REPLACE_MAP = {
     "duefio": "dueño",
     "afios": "años",
     "mfnimo": "mínimo",
-    "mismo": "mismo",      # guard no-op
+    "mismo": "mismo",  
+    "mird" : "mirá",
+    "conocñamos" : "conociéramos",
 
     # common random casing/accents from sample
     "Trépat": "Trépat",    # keep as-is (proper name)
