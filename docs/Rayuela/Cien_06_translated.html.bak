@@ -1,17 +1,17 @@
 <!DOCTYPE html>
 <html lang="es">
- <head>
-  <meta charset="utf-8"/>
-  <title>
+<head>
+<meta charset="utf-8"/>
+<title>
    Translation Part 6 - Translated (es/) - Part 6
   </title>
-  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-  <meta content="" name="language"/>
-  <meta content="es" name="sourcelang"/>
-  <meta content="General" name="topic"/>
-  <meta content="noindex" name="robots"/>
-  <link href="../style.css" rel="stylesheet"/>
-  <style>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="" name="language"/>
+<meta content="es" name="sourcelang"/>
+<meta content="General" name="topic"/>
+<meta content="noindex" name="robots"/>
+<link href="../style.css" rel="stylesheet"/>
+<style>
    .row { display: flex; border-bottom: 1px solid #eee; padding: 10px 0; }
     .col1, .col2 { flex: 1; padding: 0 10px; }
     .col2 em { color: #555; }
@@ -23,1343 +23,1123 @@
       .col1, .col2 { padding: 5px 0; }
     }
   </style>
- </head>
- <body>
-  <div id="header">
-   <h1>
+</head>
+<body>
+<div id="header">
+<h1>
     Translation Part 6
    </h1>
-   <p id="wordcount">
+<p id="wordcount">
     Word Count (Part): 2021
    </p>
-   <p id="part">
+<p id="part">
     Part 6
    </p>
-   <p>
+<p>
     Source Language: es / Target Language:
    </p>
-  </div>
-  <div id="sentence-table">
-   <div class="row">
-    <div class="col1">
-     <p>
-      5 cosas (y eso ella lo sabia, lo comprendfa muy bien), entonces la tnica posibilidad de encuentro estaba en que Horacio la matara en el amor donde ella podia conseguir encontrarse con él, en el cielo de los cuartos de hotel se enfrentaban iguales y desnudos y alli podia consumarse la resurreccién del fénix después que él la hubiera estrangulado deliciosamente, dejéndole caer un hilo de baba en la boca abierta, mirdndola extdtico como si empezara a reconocerla, a hacerla de verdad suya, a traerla de su lado.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+<div id="sentence-table">
+<div class="row">
+<div class="col1">
+<p>cosas (y eso ella lo sabia, lo comprendía muy bien), entonces la tnica posibilidad de encuentro estaba en que Horacio la matara en el amor donde ella podia conseguir encontrarse con él, en el cielo de los cuartos de hotel se enfrentaban iguales y desnudos y alli podia consumarse la resurreccién del fénix después que él la hubiera estrangulado deliciosamente, dejéndole caer un hilo de baba en la boca abierta, mirdndola extdtico como si empezara a reconocerla, a hacerla de verdad suya, a traerla de su lado.</p>
+</div>
+<div class="col2">
+<p>
       5 things (and she knew that, he understood very well), so the ethnic possibility of meeting was that Horacio kill her in love where she could get to meet him, in the sky of the hotel rooms they faced the same and naked and there could be consummated the resurrection of the phoenix after he would have delicately strangled her, letting her fall a thread of Baba in her mouth Extductic as if he began to recognize her, to really make her her, to bring her from her side.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      (-81)La técnica consistia en citarse vagamente en un barrio a cierta hora.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>(-)La técnica consistia en citarse vagamente en un barrio a cierta hora.</p>
+</div>
+<div class="col2">
+<p>
       (-81) The technique consisted of vaguely mentioning in a neighborhood at a certain time.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Les gustaba desafiar el peligro de no encontrarse, de pasar el dia solos, enfurrufiados en un café o en un banco de plaza, leyendo-un-libro-més.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Les gustaba desañiar el peligro de no encontrarse, de pasar el dia solos, enfurruñiados en un café o en un banco de plaza, leyendo-un-libro-más.</p>
+</div>
+<div class="col2">
+<p>
       They liked to challenge the danger of not finding themselves, spending the day alone, sneaking into a coffee or in a square bank, reading-un-libro-més.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      La teoria del libro-mds era de Oliveira, y la Maga la habfa aceptado por pura ésmosis.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>La teoria del libro-mds era de Oliveira, y la Maga la había aceptado por pura ésmosis.</p>
+</div>
+<div class="col2">
+<p>
       The theory of the book-MDs was from Oliveira, and the magician had accepted it by pure these.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      En realidad para ella casi todos los libros eran libro-menos, hubiese querido llenarse de una inmensa sed y durante un tiempo infinito (calculable entre tres y cinco afios) leer la opera omnia de Goethe, Homero, Dylan Thomas, Mauriac, Faulkner, Baudelaire, Roberto Arlt, San Agustin y otros autores cuyos nombres la sobresaltaban en las conversaciones del Club.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>En realidad para ella casi todos los libros eran libro-menos, hubiese querido llenarse de una inmensa sed y durante un tiempo inñinito (calculable entre tres y cinco años) leer la opera omnia de Goethe, Homero, Dylan Thomás, Mauriac, Faulkner, Baudelaire, Roberto Arlt, San Agustin y otros autores cuyos nombres la sobresaltaban en las conversaciones del Club.</p>
+</div>
+<div class="col2">
+<p>
       Actually, for her almost all the books were book-menos, she would have wanted to fill with an immense thirst and for an infinite time (calculable between three and five years) Read the Opera omnia of Goethe, Homer, Dylan Thomas, Mauriac, Faulkner, Baudelaire, Roberto Arlt, San Agustin and other authors whose names were startled in the Club conversations.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      A eso Oliveira responda con un desdefioso encogerse de hombros, y hablaba de las deformaciones rioplatenses, de una raza de lectores a fulltime, de bibliotecas pululantes de marisabidillas infieles al sol y al amor, de casas donde el olor a la tinta de imprenta acaba con la alegria del ajo.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>A eso Oliveira responda con un desdeñioso encogerse de hombros, y hablaba de las deñormaciones rioplatenses, de una raza de lectores a fulltime, de bibliotecas pululantes de marisabidillas inñieles al sol y al amor, de casas donde el olor a la tinta de imprenta acaba con la alegria del ajo.</p>
+</div>
+<div class="col2">
+<p>
       That is why Oliveira responds with a child shrug, and talked about the Riolatnses deformations, of a breed of fullly readers, of puller libraries of infidels of infidels to the sun and love, of houses where the smell of printing ink ends up with the joy of garlic.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      En esos tiempos lefa poco, ocupadisimo en mirar los arboles, los piolines que encontraba por el suelo, las amarillas peliculas de la Cinemateca y las mujeres del barrio latino.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>En esos tiempos leña poco, ocupadisimo en mirar los arboles, los piolines que encontraba por el suelo, las amarillas peliculas de la Cinemateca y las mujeres del barrio latino.</p>
+</div>
+<div class="col2">
+<p>
       In those times, LEFA little, occupied in looking at the trees, the piolines that he found on the ground, the yellow movies of the cinemateca and the women of the Latin Quarter.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Sus vagas tendencias intelectuales se resolvian en meditaciones sin provecho y cuando la Maga le pedia ayuda, una fecha o una explicacién, las proporcionaba sin ganas, como algo inutil.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Sus vagas tendencias intelectuales se resolvian en meditaciones sin provecho y cuando la Maga le pedia ayuda, una fecha o una explicacién, las proporcionaba sin ganas, como algo inutil.</p>
+</div>
+<div class="col2">
+<p>
       His vague intellectual trends were resolved in meditations without benefit and when the magician asked for help, a date or an explanation, he provided them without desire, as something useless.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Pero es que vos ya lo sabés, decta la Maga, resentida.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Pero es que vos ya lo sabés, decta la Maga, resentida.</p>
+</div>
+<div class="col2">
+<p>
       But you already know it, tell the magician, resentful.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Entonces él se tomaba el trabajo de sefialarle la diferencia entre conocer y saber, y le proponfa ejercicios de indagacidn individual que la Maga no cumplia y que la desesperaban.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Entonces él se tomaba el trabajo de señialarle la diñerencia entre conocer y saber, y le proponña ejercicios de indagacidn individual que la Maga no cumplia y que la desesperaban.</p>
+</div>
+<div class="col2">
+<p>
       Then he took the work of sefialing the difference between knowing and knowing, and proposed individual inquiry exercises that the magician did not meet and desperate it.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      De acuerdo en que en ese terreno no lo estarian nunca, se citaban por ahi y casi siempre se encontraban.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>De acuerdo en que en ese terreno no lo estarian nunca, se citaban por ahi y casi siempre se encontraban.</p>
+</div>
+<div class="col2">
+<p>
       Agree that they would never be in that field, they were cited there and they were almost always found.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Los encuentros eran a veces tan increfbles que Oliveira se planteaba una vez mas el problema de las probabilidades y le daba vuelta por todos46 G lados, desconfiadamente.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Los encuentros eran a veces tan increfbles que Oliveira se planteaba una vez más el problema de las probabilidades y le daba vuelta por todosa6 G lados, desconñiadamente.</p>
+</div>
+<div class="col2">
+<p>
       The encounters were sometimes so increfble that Oliveira posed once again the problem of probabilities and turned around all 46 g sides, distrustful.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      No podfa ser que la Maga decidiera doblar en esa esquina de la rue de Vaugirard exactamente en el momento en que él, cinco cuadras mds abajo, renunciaba a subir por la rue de Buci y se orientaba hacia la rue Monsieur le Prince sin razon alguna, dejandose llevar hasta distinguirla de golpe, parada delante de una vidriera, absorta en la contemplacién de un mono embalsamado.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>No podía ser que la Maga decidiera doblar en esa esquina de la rue de Vaugirard exactamente en el momento en que él, cinco cuadras mds abajo, renunciaba a subir por la rue de Buci y se orientaba hacia la rue Monsieur le Prince sin razon alguna, dejandose llevar hasta distinguirla de golpe, parada delante de una vidriera, absorta en la contemplacién de un mono embalsamado.</p>
+</div>
+<div class="col2">
+<p>
       It could not be that the magician decided to bend in that corner of the vaugirard rue of exactly at the moment he, five blocks below, renounced to climb the rue of Buci and was oriented towards the Rue Monsieur Le Prince without any reason, letting himself be taken to distinguish it suddenly, stop in front of a stained glass window, absorbed in the contemplate of a embalmed monkey.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Sentados en un café reconstrufan minuciosamente los itinerarios, los bruscos cambios, procurando explicarlos telepdticamente, fracasando siempre, y sin embargo se habian encontrado en pleno laberinto de calles, casi siempre acababan por encontrarse y se refan como locos, seguros de un poder que los enriquecfa.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Sentados en un café reconstruñan minuciosamente los itinerarios, los bruscos cambios, procurando explicarlos telepdticamente, fracasando siempre, y sin embargo se habían encontrado en pleno laberinto de calles, casi siempre acababan por encontrarse y se reñan como locos, seguros de un poder que los enriquecña.</p>
+</div>
+<div class="col2">
+<p>
       Sitting in a coffee thoroughly reconstructs the itineraries, the sudden changes, trying to explain them telepatically, always failing, and yet they had found themselves in the middle of the street labyrinth, they almost always ended up being found and referred like crazy, insurance of a power that enrich them.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      A Oliveira lo fascinaban las sinrazones de la Maga, su tranquilo desprecio por los cdlculos mds elementales.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>A Oliveira lo fascinaban las sinrazones de la Maga, su tranquilo desprecio por los cdlculos mds elementales.</p>
+</div>
+<div class="col2">
+<p>
       Oliveira was fascinated by the unrazons of the magician, his quiet contempt for the most elementary cdlcles.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Lo que para él habia sido andlisis de probabilidades, eleccién o simplemente confianza en la rabdomancia ambulatoria, se volvia para ella simple fatalidad.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Lo que para él había sido andlisis de probabilidades, eleccién o simplemente conñianza en la rabdomancia ambulatoria, se volvia para ella simple fatalidad.</p>
+</div>
+<div class="col2">
+<p>
       What had been andLisis of probabilities, choice or simply confidence in outpatient rhabdomancy, became simple fatality.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      ;Y si no me hubieras encontrado?
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>;Y si no me hubieras encontrado?</p>
+</div>
+<div class="col2">
+<p>
       And if you hadn't found me?
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      , le preguntaba.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>, le preguntaba.</p>
+</div>
+<div class="col2">
+<p>
       I asked him.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      No sé, ya ves que estas aqui.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>No sé, ya ves que estás aqui.</p>
+</div>
+<div class="col2">
+<p>
       I don't know, you see that you are here.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>.</p>
+</div>
+<div class="col2">
+<p>
       .
      </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>.</p>
+</div>
+<div class="col2">
+<p>
       .
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      .
-     </p>
-    </div>
-    <div class="col2">
-     <p>
-      .
-     </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Inexplicablemente la respuesta invalidaba la pregunta, mostraba sus adocenados resortes ldgicos.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Inexplicablemente la respuesta invalidaba la pregunta, mostraba sus adocenados resortes ldgicos.</p>
+</div>
+<div class="col2">
+<p>
       Inexplicably the answer invalidated the question, showed its indoced Ldgic springs.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Después de eso Oliveira se sentia mds capaz de luchar contra sus prejuicios bibliotecarios, y paradéjicamente la Maga se rebelaba contra su desprecio hacia los conocimientos escolares.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Después de eso Oliveira se sentia mds capaz de luchar contra sus prejuicios bibliotecarios, y paradéjicamente la Maga se rebelaba contra su desprecio hacia los conocimientos escolares.</p>
+</div>
+<div class="col2">
+<p>
       After that Oliveira felt MDS capable of fighting her library prejudices, and paradoxically the magician rebelled against her contempt for school knowledge.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Asf andaban, Punch and Judy, atrayéndose y rechaz4ndose como hace falta si no se quiere que el amor termine en cromo o en romanza sin palabras.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Asf andaban, Punch and Judy, atrayéndose y rechazandose como hace falta si no se quiere que el amor termine en cromo o en romanza sin palabras.</p>
+</div>
+<div class="col2">
+<p>
       So they were, Punch and Judy, attracting and rejected as it is needed if love is not wanted to end in chrome or in Romanza without words.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Pero el amor, esa palabra.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Pero el amor, esa palabra.</p>
+</div>
+<div class="col2">
+<p>
       But love, that word.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>.</p>
+</div>
+<div class="col2">
+<p>
       .
      </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>.</p>
+</div>
+<div class="col2">
+<p>
       .
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      .
-     </p>
-    </div>
-    <div class="col2">
-     <p>
-      .
-     </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      (2)Toco tu boca, con un dedo toco el borde de tu boca, voy dibujandola como si saliera de mi mano, como si por primera vez tu boca se entreabriera, y me basta cerrar los ojos para deshacerlo todo y recomenzar, hago nacer cada vez la boca que deseo, la boca que mi mano elige y te dibuja en la cara, una boca elegida entre todas, con soberana libertad elegida por mi para dibujarla con mi mano en tu cara, y que por un azar que no busco comprender coincide exactamente con tu boca que sonrie por debajo de la que mi mano te dibuja.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>()Toco tu boca, con un dedo toco el borde de tu boca, voy dibujandola como si saliera de mi mano, como si por primera vez tu boca se entreabriera, y me basta cerrar los ojos para deshacerlo todo y recomenzar, hago nacer cada vez la boca que deseo, la boca que mi mano elige y te dibuja en la cara, una boca elegida entre todas, con soberana libertad elegida por mi para dibujarla con mi mano en tu cara, y que por un azar que no busco comprender coincide exactamente con tu boca que sonrie por debajo de la que mi mano te dibuja.</p>
+</div>
+<div class="col2">
+<p>
       (2) I touch your mouth, with a finger I play the edge of your mouth, I draw it as if it comes out of my hand, as if for the first time your mouth was ahead, and it is enough for me Azar that I don't seek to understand exactly your mouth that smiles below what my hand draws you.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Me miras, de cerca me miras, cada vez mds de cerca y entonces jugamos al ciclope, nos miramos cada vez mas de cerca y los ojos se agrandan, se acercan entre si, se superponen y los ciclopes se miran, respirando confundidos, las bocas se encuentran y luchan tibiamente, mordiéndose con los labios, apoyando apenas la lengua en los dientes, jugando en sus recintos donde un aire pesado va y viene con un perfume viejo y un silencio.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Me miras, de cerca me miras, cada vez mds de cerca y entonces jugamos al ciclope, nos miramos cada vez más de cerca y los ojos se agrandan, se acercan entre si, se superponen y los ciclopes se miran, respirando confundidos, las bocas se encuentran y luchan tibiamente, mordiéndose con los labios, apoyando apenas la lengua en los dientes, jugando en sus recintos donde un aire pesado va y viene con un perfume viejo y un silencio.</p>
+</div>
+<div class="col2">
+<p>
       You look at me, you look at me closely, every time closest and then we play the cycle, we look more and more closely and the eyes enlarged, they approach each other, overlap and the cyclopes look at each other, breathing confused, the mouths are and fight tibly, biting with their lips, supporting just the tongue in the teeth, playing in their enclosures where a heavy air And a silence.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Entonces mis manos buscan hundirse en tu pelo, acariciar lentamente la profundidad de tu pelo mientras nos besamos como si tuviéramos la boca llena de flores o de peces, de movimientos vivos, de fragancia oscura.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Entonces mis manos buscan hundirse en tu pelo, acariciar lentamente la profundidad de tu pelo mientras nos besamos como si tuviéramos la boca llena de flores o de peces, de movimientos vivos, de fragancia oscura.</p>
+</div>
+<div class="col2">
+<p>
       Then my hands seek to sink into your hair, slowly stroking the depth of your hair while we kiss as if we had our mouth full of flowers or fish, living movements, dark fragrance.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Y si nos mordemos el dolor es dulce, y si nos ahogamos en un breve y terrible absorber simulténeo del aliento, esa instant4nea muerte es bella.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Y si nos mordemos el dolor es dulce, y si nos ahogamos en un breve y terrible absorber simulténeo del aliento, esa instantanea muerte es bella.</p>
+</div>
+<div class="col2">
+<p>
       And if we bite the pain, it is sweet, and if we drowned in a brief and terrible absorbing of the breath, that instant 4th death is beautiful.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Y hay una sola saliva y un solo sabor a fruta madura, y yo te siento temblar contra mi como una luna en el agua.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Y hay una sola saliva y un sólo sabor a fruta madura, y yo te siento temblar contra mi como una luna en el agua.</p>
+</div>
+<div class="col2">
+<p>
       And there is only one saliva and a single ripe fruit flavor, and I feel you tremble against me like a moon in the water.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      (-8)Ibamos por las tardes a ver los peces del Quai de la Mégisserie, en marzo el mes leopardo, el agazapado pero ya con un sol amarillo donde el rojo entraba un poco mas cada dia.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>(-)Ibamos por las tardes a ver los peces del Quai de la Mégisserie, en marzo el mes leopardo, el agazapado pero ya con un sol amarillo donde el rojo entraba un poco más cada dia.</p>
+</div>
+<div class="col2">
+<p>
       (-8) We were in the afternoon to see the fish of the quai of the Mégisserie, in March the month leopardo, the crouch but already with a yellow sun where red entered a little more every day.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Desde la acera que daba al rio, indiferentes a los bouquinistes que nada iban a darnos sin dinero, esperabamos el momento en que veriamos las peceras (anddbamos despacio, demorando el encuentro), todas las peceras al sol, y como suspendidos en el aire cientos de peces rosa y negro, pajaros quietos en su aire redondo.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Desde la acera que daba al rio, indiñerentes a los bouquinistes que nada iban a darnos sin dinero, esperabamos el momento en que veriamos las peceras (anddbamos despacio, demorando el encuentro), todas las peceras al sol, y como suspendidos en el aire cientos de peces rosa y negro, pajaros quietos en su aire redondo.</p>
+</div>
+<div class="col2">
+<p>
       From the sidewalk that gave to the river, indifferent to the Bouquinistes that were not going to give us without money, we expected the moment when we saw the fish tanks (we slowly, delaying the encounter), all the fish to the sun, and as suspended in the air hundreds of pink and black fish, quiet birds in its round air.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Una alegria absurda nos tomaba de la cintura, y vos cantabas arrastrandome a cruzar la calle, a entrar en el mundo de los peces colgados del aire.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Una alegria absurda nos tomaba de la cintura, y vos cantabas arrastrandome a cruzar la calle, a entrar en el mundo de los peces colgados del aire.</p>
+</div>
+<div class="col2">
+<p>
       An absurd joy took us from the waist, and you Cantabas dragging me to cross the street, to enter the world of fish hanging from the air.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Sacan las peceras, los grandes bocales a la calle, y entre turistas y nifios ansiosos y sefioras que coleccionan variedades ex6ticas (550 fr.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Sacan las peceras, los grandes bocales a la calle, y entre turistas y niñios ansiosos y señoras que coleccionan variedades exóticas (fr.</p>
+</div>
+<div class="col2">
+<p>
       They take out the fish tanks, the large mouths to the street, and between tourists and anxious and SEFIORAS CHILDREN that collect ex -varieties (550 FR.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      piece) estan las peceras bajo el sol con sus cubos, sus esferas de agua que el sol mezcla con el aire, y los pajaros rosa y negro giran danzando dulcemente en una pequefia porcion de aire, lentos pdjaros frios.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>piece) estan las peceras bajo el sol con sus cubos, sus esñeras de agua que el sol mezcla con el aire, y los pajaros rosa y negro giran danzando dulcemente en una pequeñia porcion de aire, lentos pájaros frios.</p>
+</div>
+<div class="col2">
+<p>
       Piece) are the fish tanks with their cubes, their water spheres that the sun mixes with the air, and the pink and black birds turn dancing sweetly in a small air portion, slow cold pdjaros.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Los mirdébamos, jugando a acercar los ojos al vidrio, pegando la nariz, encolerizando a las viejas vendedoras armadas de redes de cazar mariposas acuaticas, y comprendiamos cada vez peor lo que es un pez, por ese camino de no comprender nos fbamos acercando a ellos que no se comprenden, franquedbamos las peceras y estabamos tan cerca como nuestra amiga, la vendedora de la segunda tienda viniendo del Pont-Neuf, que te dijo: El agua fria los mata, es triste el agua fria.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Los mirdébamos, jugando a acercar los ojos al vidrio, pegando la nariz, encolerizando a las viejas vendedoras armadas de redes de cazar mariposas acuaticas, y comprendiamos cada vez peor lo que es un pez, por ese camino de no comprender nos fbamos acercando a ellos que no se comprenden, franquedbamos las peceras y estabamos tan cerca como nuestra amiga, la vendedora de la segunda tienda viniendo del Pont-Neuf, que te dijo: El agua fria los mata, es triste el agua fria.</p>
+</div>
+<div class="col2">
+<p>
       We mirdéba, playing to bring the eyes to the glass, hitting the nose, grooveing the old vendors armed with hunting nets hunting butterflies, and we understood increasing Pont-Neuf, who told you: Cold water kills them, cold water is sad.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>.</p>
+</div>
+<div class="col2">
+<p>
       .
      </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>.</p>
+</div>
+<div class="col2">
+<p>
       .
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>.</p>
+</div>
+<div class="col2">
+<p>
       .
      </p>
-    </div>
-    <div class="col2">
-     <p>
-      .
-     </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      .
-     </p>
-    </div>
-    <div class="col2">
-     <p>
-      .
-     </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Y yo pensaba en la mucama del hotel que me daba consejos sobre un helecho: No lo riegue, ponga un plato con agua debajo de la maceta, entonces cuando él quiere beber, bebe, y cuando no quiere no bebe.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Y yo pensaba en la mucama del hotel que me daba consejos sobre un helecho: No lo riegue, ponga un plato con agua debajo de la maceta, entonces cuando él quiere beber, bebe, y cuando no quiere no bebe.</p>
+</div>
+<div class="col2">
+<p>
       And I thought about the maid of the hotel that gave me advice on a fern: I don't water it, put a plate with water under the pot, then when he wants to drink, drink, and when he doesn't want he does not drink.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>.</p>
+</div>
+<div class="col2">
+<p>
       .
      </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>.</p>
+</div>
+<div class="col2">
+<p>
       .
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>.</p>
+</div>
+<div class="col2">
+<p>
       .
      </p>
-    </div>
-    <div class="col2">
-     <p>
-      .
-     </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      .
-     </p>
-    </div>
-    <div class="col2">
-     <p>
-      .
-     </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Y pensdbamos en esa cosa increible que habfamos49 leido, que un pez solo en su pecera se entristece y entonces basta ponerle un espejo y el pez vuelve a estar contento.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Y pensóbamos en esa cosa increíble que habíamosa9 leido, que un pez sólo en su pecera se entristece y entonces basta ponerle un espejo y el pez vuelve a estar contento.</p>
+</div>
+<div class="col2">
+<p>
       And we thought about that incredible thing we had49 read, that a fish only in its fishbag is sad and then it is enough to put a mirror and the fish is happy again.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>.</p>
+</div>
+<div class="col2">
+<p>
       .
      </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>.</p>
+</div>
+<div class="col2">
+<p>
       .
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      .
-     </p>
-    </div>
-    <div class="col2">
-     <p>
-      .
-     </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Entrdbamos en las tiendas donde las variedades mas delicadas tenfan peceras especiales con termémetro y gusanitos rojos.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Entrdbamos en las tiendas donde las variedades más delicadas tenían peceras especiales con termémetro y gusanitos rojos.</p>
+</div>
+<div class="col2">
+<p>
       We got into stores where the most delicate varieties have special springs with thermometer and red worms.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Descubriamos entre exclamaciones que enfurecfan a las vendedoras —tan seguras de que no les comprarfamos nada a 550 fr.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Descubriamos entre exclamaciones que enfurecñan a las vendedoras —tan seguras de que no les comprarñamos nada a fr.</p>
+</div>
+<div class="col2">
+<p>
       We discover between exclamations that enraged the vendors - so sure that we do not buy anything at 550 FR.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      piéce— los comportamientos, los amores, las formas.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>piéce— los comportamientos, los amores, las formás.</p>
+</div>
+<div class="col2">
+<p>
       PIECE— Behaviors, love, forms.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Era el tiempo delicuescente, algo como chocolate muy fino o pasta de naranja martiniquesa, en que nos emborrach4ébamos de metéforas y analogfas, buscando siempre entrar.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Era el tiempo delicuescente, algo como chocolate muy fino o pasta de naranja martiniquesa, en que nos emborrachaébamos de metéforas y analogñas, buscando siempre entrar.</p>
+</div>
+<div class="col2">
+<p>
       It was the delicue time, something like very fine chocolate or Martiniquesa orange paste, in which we got drunk with methods and analogy, always looking to enter.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Y ese pez era perfectamente Giotto, te acordas, y esos dos jugaban como perros de jade, o un pez era la exacta sombra de una nube violeta.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Y ese pez era perñectamente Giotto, te acordas, y esos dos jugaban como perros de jade, o un pez era la exacta sombra de una nube violeta.</p>
+</div>
+<div class="col2">
+<p>
       And that fish was perfectly Giotto, you remember, and those two played like jade dogs, or a fish was the exact shadow of a violet cloud.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>.</p>
+</div>
+<div class="col2">
+<p>
       .
      </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>.</p>
+</div>
+<div class="col2">
+<p>
       .
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      .
-     </p>
-    </div>
-    <div class="col2">
-     <p>
-      .
-     </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Descubriamos cémo la vida se instala en formas privadas de tercera dimensidén, que desaparecen si se ponen de filo o dejan apenas una rayita rosada inmévil vertical en el agua.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Descubriamos cémo la vida se instala en formás privadas de tercera dimensidén, que desaparecen si se ponen de filo o dejan apenas una rayita rosada inmévil vertical en el agua.</p>
+</div>
+<div class="col2">
+<p>
       We discover how life is installed in private forms of third dimension, which disappear if they are edged or leave just a vertical immévil pink sprite in the water.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Un golpe de aleta y monstruosamente est4 de nuevo ahi con ojos bigotes aletas y del vientre a veces saliéndole y flotando una transparente cinta de excremento que no acaba de soltarse, un lastre que de golpe los pone entre nosotros, los arranca a su perfeccién de imagenes puras, los compromete, por decirlo con una de las grandes palabras que tanto empledbamos por ahi y en esos dias.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Un golpe de aleta y monstruosamente est4 de nuevo ahi con ojos bigotes aletas y del vientre a veces saliéndole y flotando una transparente cinta de excremento que no acaba de soltarse, un lastre que de golpe los pone entre nosotros, los arranca a su perñeccién de imagenes puras, los compromete, por decirlo con una de las grandes palabras que tanto empledbamos por ahi y en esos dias.</p>
+</div>
+<div class="col2">
+<p>
       A monster and monstrously is ahi stroke there with mi -mantre mustaches and the belly sometimes coming out and floating a transparent excrement tape that does not just let go, a ballast that suddenly puts them between us, starts them to their perfect of pure images, compromises them, to put it with one of the great words that we used so much there and in those days.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      (-93)Por la rue de Varennes entraron en la rue Vaneau.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>(-)Por la rue de Varennes entraron en la rue Vaneau.</p>
+</div>
+<div class="col2">
+<p>
       (-93) On the wheel of Varennes they entered the Rue Vaneau.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Lloviznaba, y la Maga se colgé todavia mds del brazo de Oliveira, se apretdé contra su impermeable que olfa a sopa fria.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Lloviznaba, y la Maga se colgé todavia mds del brazo de Oliveira, se apretdé contra su impermeable que olña a sopa fria.</p>
+</div>
+<div class="col2">
+<p>
       Lloviznaba, and the magician was still hung from Oliveira's arm, I tightened against his impermeable that olfa a cold soup.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Etienne y Perico discutian una posible explicacién del mundo por la pintura y la palabra.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Etienne y Perico discutian una posible explicacién del mundo por la pintura y la palabra.</p>
+</div>
+<div class="col2">
+<p>
       Etienne and Perico discussed a possible explanation of the world for painting and the word.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Aburrido, Oliveira pasé el brazo por la cintura de la Maga.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Aburrido, Oliveira pasé el brazo por la cintura de la Maga.</p>
+</div>
+<div class="col2">
+<p>
       Bored, Oliveira passed my arm through the waist of the magician.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      También eso podfa ser una explicacién, un brazo apretando una cintura fina y caliente, al caminar se sentia el juego leve de los musculos como un lenguaje monétono y persistente, una Berlitz obstinada, te quie-ro te quie-ro te quie-ro.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>También eso podía ser una explicacién, un brazo apretando una cintura fina y caliente, al caminar se sentia el juego leve de los musculos como un lenguaje monétono y persistente, una Berlitz obstinada, te quie-ro te quie-ro te quie-ro.</p>
+</div>
+<div class="col2">
+<p>
       That could also be an explanation, an arm by pressing a fine and hot waist, when walking the mild game of muscles felt like a monetone and persistent language, a stubborn Berlitz, I love you, I love you.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      No una explicacién: verbo puro, que-rer, que-rer.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>No una explicacién: verbo puro, que-rer, que-rer.</p>
+</div>
+<div class="col2">
+<p>
       Not an explanation: pure, que -re, que -re verb.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Y después siempre, la cépula, pensdé gramaticalmente Oliveira.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Y después siempre, la cépula, pensóé gramaticalmente Oliveira.</p>
+</div>
+<div class="col2">
+<p>
       And then always, the spine, I thought Grammatically Oliveira.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Si la Maga hubiera podido comprender cémo de pronto la obediencia al deseo lo exasperaba, inutil obediencia solitaria habia dicho un poeta, tan tibia la cintura, ese pelo mojado contra su mejilla, el aire Toulouse Lautrec de la Maga para caminar arrinconada contra él.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Si la Maga hubiera podido comprender cémo de pronto la obediencia al deseo lo exasperaba, inutil obediencia solitaria había dicho un poeta, tan tibia la cintura, ese pelo mojado contra su mejilla, el aire Toulouse Lautrec de la Maga para caminar arrinconada contra él.</p>
+</div>
+<div class="col2">
+<p>
       If the magician had suddenly understood the obedience to desire exasperated him, heying lonely obedience had said a poet, the waist, that wet hair against his cheek, the Toulouse Lautrec air of the magician to walk cornered against him.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      En el principio fue la cépula, violar es explicar pero no siempre viceversa.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>En el principio fue la cépula, violar es explicar pero no siempre viceversa.</p>
+</div>
+<div class="col2">
+<p>
       In the beginning it was the spine, raping is to explain but not always vice versa.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Descubrir el método antiexplicatorio, que ese te quie-ro te quie-ro fuese el cubo de la rueda.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Descubrir el método antiexplicatorio, que ese te quie-ro te quie-ro fuese el cubo de la rueda.</p>
+</div>
+<div class="col2">
+<p>
       Discover the antiexplicatory method, that you love you-you want to be the wheel cube.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      ;Y el Tiempo?
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>;Y el Tiempo?</p>
+</div>
+<div class="col2">
+<p>
       And time?
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Todo recomienza, no hay un absoluto.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Todo recomienza, no hay un absoluto.</p>
+</div>
+<div class="col2">
+<p>
       Everything recommends, there is no absolute.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Después hay que comer o descomer, todo vuelve a entrar en crisis.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Después hay que comer o descomer, todo vuelve a entrar en crisis.</p>
+</div>
+<div class="col2">
+<p>
       Then you have to eat or break down, everything goes back into crisis.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      El deseo cada tantas horas, nunca demasiado diferente y cada vez otra cosa: trampa del tiempo para crear las ilusiones.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>El deseo cada tantas horas, nunca demasíado diñerente y cada vez otra cosa: trampa del tiempo para crear las ilusiones.</p>
+</div>
+<div class="col2">
+<p>
       The desire every time, never too different and every time something else: trap of time to create illusions.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Un amor como el fuego, arder eternamente en la contemplacion del Todo.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Un amor como el fuego, arder eternamente en la contemplacion del Todo.</p>
+</div>
+<div class="col2">
+<p>
       A love like fire, burn forever in the contemplation of the whole.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Pero en seguida se cae en un lenguaje desaforado.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Pero en seguida se cae en un lenguaje desañorado.</p>
+</div>
+<div class="col2">
+<p>
       But immediately falls into an unbridled language.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      —Explicar, explicar —grufifa Etienne—.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>—Explicar, explicar —gruñiña Etienne—.</p>
+</div>
+<div class="col2">
+<p>
       "Explain, explain," Grufifa Etienne.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Ustedes si no nombran las cosas ni siquiera las ven.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Ustedes si no nombran las cosas ni siquiera las ven.</p>
+</div>
+<div class="col2">
+<p>
       You do not name things do not even see them.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Y esto se llama perro y esto se llama casa, como dectfa el de Duino.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Y esto se llama perro y esto se llama casa, como dectña el de Duino.</p>
+</div>
+<div class="col2">
+<p>
       And this is called a dog and this is called a house, as Duino's dectfa.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Perico, hay que mostrar, no explicar.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Perico, hay que mostrar, no explicar.</p>
+</div>
+<div class="col2">
+<p>
       Perico, you have to show, not explain.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Pinto, ergo soy.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Pinto, ergo soy.</p>
+</div>
+<div class="col2">
+<p>
       Pinto, Ergo I am.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      —;Mostrar qué?
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>—;Mostrar qué?</p>
+</div>
+<div class="col2">
+<p>
       - Show what?
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      —dijo Perico Romero.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>—dijo Perico Romero.</p>
+</div>
+<div class="col2">
+<p>
       Said Perico Romero.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      a —Las unicas justificaciones de que estemos vivos.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>a —Las unicas justiñicaciones de que estemos vivos.</p>
+</div>
+<div class="col2">
+<p>
       A - The only justifications that we are alive.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      —Este animal cree que no hay més sentido que la vista y sus consecuencias —dijo Perico.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>—Este animal cree que no hay más sentido que la vista y sus consecuencias —dijo Perico.</p>
+</div>
+<div class="col2">
+<p>
       "This animal believes that there is no more sense that the view and its consequences," said Perico.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      —La pintura es otra cosa que un producto visual —dijo Etienne—.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>—La pintura es otra cosa que un producto visual —dijo Etienne—.</p>
+</div>
+<div class="col2">
+<p>
       "The paint is another thing than a visual product," Etienne said.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Yo pinto con todo el cuerpo, en ese sentido no soy tan diferente de tu Cervantes 0 tu Tirso de no sé cuanto.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Yo pinto con todo el cuerpo, en ese sentido no soy tan diñerente de tu Cervantes tu Tirso de no sé cuanto.</p>
+</div>
+<div class="col2">
+<p>
       I paint the whole body, in that sense I am not so different from your cervantes or your pull of I don't know how much.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Lo que me revienta es la manjfa de las explicaciones, el Logos entendido exclusivamente como verbo.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Lo que me revienta es la manjña de las explicaciones, el Logos entendido exclusivamente como verbo.</p>
+</div>
+<div class="col2">
+<p>
       What bursts me is the manjfa of the explanations, the logos understood exclusively as a verb.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      —Etcétera —dijo Oliveira, malhumorado—.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>—Etcétera —dijo Oliveira, malhumorado—.</p>
+</div>
+<div class="col2">
+<p>
       "Etcétera," said Oliveira, Malhumorado.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Hablando de los sentidos, el de ustedes parece un didlogo de sordos.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Hablando de los sentidos, el de ustedes parece un didlogo de sordos.</p>
+</div>
+<div class="col2">
+<p>
       Speaking of the senses, yours looks like a Didogue de Deaf.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      La Maga se apreté todavia mds contra él.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>La Maga se apreté todavia mds contra él.</p>
+</div>
+<div class="col2">
+<p>
       The magician was still squeezed at him.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Ahora ésta va a decir alguna de sus burradas, pensdé Oliveira.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Ahora ésta va a decir alguna de sus burradas, pensóé Oliveira.</p>
+</div>
+<div class="col2">
+<p>
       Now this is going to say some of his batters, I thought Oliveira.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Necesita frotarse primero, decidirse epidérmicamente.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Necesita frotarse primero, decidirse epidérmicamente.</p>
+</div>
+<div class="col2">
+<p>
       You need to rub first, decide epidermically.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Sintid una especie de ternura rencorosa, algo tan contradictorio que debfa ser la verdad misma.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Sintid una especie de ternura rencorosa, algo tan contradictorio que debía ser la verdad misma.</p>
+</div>
+<div class="col2">
+<p>
       SATRID A kind of resentment tenderness, something so contradictory that it should be the truth itself.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Habrifa que inventar la bofetada dulce, el puntapié de abejas.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Habriña que inventar la boñetada dulce, el puntapié de abejas.</p>
+</div>
+<div class="col2">
+<p>
       There will be a sweet slap, bee kick.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Pero en este mundo las sintesis ultimas estan por descubrirse.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Pero en este mundo las sintesis ultimás estan por descubrirse.</p>
+</div>
+<div class="col2">
+<p>
       But in this world the last synthesis are about to be discovered.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Perico tiene razén, el gran Logos vela.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Perico tiene razén, el gran Logos vela.</p>
+</div>
+<div class="col2">
+<p>
       Perico has reason, the great Logos Vela.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Lastima, haria falta el amoricidio, por ejemplo, la verdadera luz negra, la antimateria que tanto da que pensar a Gregorovius.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Lastima, haria falta el amoricidio, por ejemplo, la verdadera luz negra, la antimateria que tanto da que pensar a Gregorovius.</p>
+</div>
+<div class="col2">
+<p>
       Too bad, amoricide would be missing, for example, true black light, the antimatter that gives Gregorovius so much.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      —Che, ;Gregorovius va a venir a la discada?
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>—Che,;Gregorovius va a venir a la discada?</p>
+</div>
+<div class="col2">
+<p>
       "
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      —pregunté Oliveira.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>—pregunté Oliveira.</p>
+</div>
+<div class="col2">
+<p>
       "I asked Oliveira.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Perico creia que sf, y Etienne crefa que Mondrian.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Perico creía que sf, y Etienne creña que Mondrian.</p>
+</div>
+<div class="col2">
+<p>
       Perico believed that SF, and Etienne believed that Mondrian.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      —Fijate un poco en Mondrian —decifa Etienne—.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>—Fijate un poco en Mondrian —deciña Etienne—.</p>
+</div>
+<div class="col2">
+<p>
       "Fix a little in Mondrian," Decifa Etienne.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Frente a él se acaban los signos mdgicos de un Klee.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Frente a él se acaban los signos mdgicos de un Klee.</p>
+</div>
+<div class="col2">
+<p>
       Faced with him, the medical signs of a Klee are over.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Klee jugaba con el azar, los beneficios de la cultura.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Klee jugaba con el azar, los beneñicios de la cultura.</p>
+</div>
+<div class="col2">
+<p>
       Klee played with chance, the benefits of culture.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      La sensibilidad pura puede quedar satisfecha con Mondrian, mientras que para Klee hace falta un farrago de otras cosas.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>La sensibilidad pura puede quedar satisñecha con Mondrian, mientras que para Klee hace falta un farrago de otras cosas.</p>
+</div>
+<div class="col2">
+<p>
       Pure sensitivity can be satisfied with Mondrian, while for Klee a pharrago of other things is needed.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Un refinado para refinados.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Un reñinado para reñinados.</p>
+</div>
+<div class="col2">
+<p>
       A refined for refined.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Un chino, realmente.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Un chino, realmente.</p>
+</div>
+<div class="col2">
+<p>
       A Chinese, really.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      En cambio Mondrian pinta absoluto.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>En cambio Mondrian pinta absoluto.</p>
+</div>
+<div class="col2">
+<p>
       Instead Mondrian paints absolute.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      Te ponés delante, bien desnudo, y entonces una de dos: ves o no ves.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>Te ponés delante, bien desnudo, y entonces una de dos: ves o no ves.</p>
+</div>
+<div class="col2">
+<p>
       You get in front, very naked, and then one of two: you see or do not see.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      El placer, las cosquillas, las alusiones, los terrores o las delicias estan completamente de mas.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>El placer, las cosquillas, las alusiones, los terrores o las delicias estan completamente de más.</p>
+</div>
+<div class="col2">
+<p>
       Pleasure, tickles, allusions, terrors or delights are completely more.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      —;Vos entendés lo que dice?
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>—;Vos entendés lo que dice?</p>
+</div>
+<div class="col2">
+<p>
       -; do you understand what he says?
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      —pregunté la Maga—.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>—pregunté la Maga—.</p>
+</div>
+<div class="col2">
+<p>
       I asked the magician.
      </p>
-    </div>
-   </div>
-   <div class="row">
-    <div class="col1">
-     <p>
-      A mi me parece que es injusto con Klee.
-     </p>
-    </div>
-    <div class="col2">
-     <p>
+</div>
+</div>
+<div class="row">
+<div class="col1">
+<p>A mi me parece que es injusto con Klee.</p>
+</div>
+<div class="col2">
+<p>
       It seems to me that it is unfair to Klee.
      </p>
-    </div>
-   </div>
-  </div>
- </body>
+</div>
+</div>
+</div>
+</body>
 </html>

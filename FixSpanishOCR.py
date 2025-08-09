@@ -54,6 +54,10 @@ REPLACE_MAP = {
     "Trépat": "Trépat",    # keep as-is (proper name)
     "Alix": "Alix",        # keep as-is
     "Rose": "Rose",
+        "atin": "al fin",
+    "petulante y20": "petulante y",
+    "inmévil": "inmóvil",
+    "repetid": "repitió",
 
     # obvious garbles from sample
     "est4s": "estás",
@@ -72,15 +76,38 @@ REPLACE_MAP = {
     "tambien": "también",
     "subj": "subí",
     "estaba": "estaba",
-    "mas ": "más ",
     "mas,": "más,",
     "mas.": "más.",
     "solo ": "sólo ",   # stylistic—consider disabling if you prefer RAE 2010
-    "sólo ": "sólo ",
     "asi": "así",
     "aun ": "aún ",
     "aun,": "aún,",
     "aun.": "aún.",
+    "mf ": "mi ",
+    "tenña" : "tenía", 
+    "algtin" : "algún",
+    "habrña" : "habría",
+    "dña": "día",
+    "habfa": "había",
+    "incréible": "increíble",
+    "retrocedié": "retrocedió",
+    "bofetén": "bofetón",
+    "instantdneéo": "instantáneo",
+    "ufias": "uñas",
+    "prohibñan": "prohibían",
+    "encontrdndote": "encontrándote",
+    "Cémo": "Cómo",
+    "podña": "podía",
+    "lfvidas": "lívidas",
+    "crei": "creí",
+    "més": "más",
+    "repitid": "repitió",
+    "casí": "casi",
+    "mismás": "mismas",
+    "Cémo": "Cómo",
+    "podña": "podía",
+    "lfvidas": "lívidas",
+    "pdjaro": "pájaro"
 }
 
 # Word-level regex corrections (patterns applied on word boundaries)
