@@ -57,6 +57,13 @@ REPLACE_MAP = {
     "arañia" : "araña",
     "Mird" : "Miró",
     "alñil" : "albañil",
+    "fbamos" : "íbamos",
+    "emulsién" : "emulsión",
+    "corrñan" : "corrían",
+    "ahf" : "ahí",
+    "sueñio" : "sueño",
+    "habja" : "había",
+    "Lan" : "Lang",
 
     # common random casing/accents from sample
     "Trépat": "Trépat",    # keep as-is (proper name)
