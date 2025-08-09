@@ -90,7 +90,13 @@ REPLACE_MAP = {
     "sueñio": "sueño",
     "tambien": "también",
     "tenña": "tenía",
-    "ufias": "uñas"
+    "ufias": "uñas",
+     "inutiles": "inútiles",
+    "atrds": "atrás",
+    "parecña": "parecía",
+    "mds": "más",
+    "conseguña": "conseguía",
+    "19a0": "1940"
 }
 
 WORD_REGEX_FIXES = [
@@ -178,7 +184,7 @@ def process_file(path: Path, dry_run: bool = False) -> int:
             after = clean_spanish_text(before)
             if after != before and after.strip() != before.strip():
                 # === ADDED: print each change ===
-                print(f"  • {path.name} | {before!r}  ->  {after!r}")
+                #  print(f"  • {path.name} | {before!r}  ->  {after!r}")
                 # =================================
                 changed += 1
                 if not dry_run:
