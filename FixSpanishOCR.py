@@ -57,6 +57,7 @@ REPLACE_MAP = {
 
     # obvious garbles from sample
     "est4s": "estás",
+    "quiz4 ": "quizás", 
     "gird": "giró",
     "salidé": "salió",
     "miré ": "miró ",  # beware: crude; adjust if it misfires
