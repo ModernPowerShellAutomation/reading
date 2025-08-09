@@ -1,0 +1,1149 @@
+<!DOCTYPE html>
+<html lang="es">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Translation Part 8 - Translated (es/) - Part 8
+  </title>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <meta content="" name="language"/>
+  <meta content="es" name="sourcelang"/>
+  <meta content="General" name="topic"/>
+  <meta content="noindex" name="robots"/>
+  <link href="../style.css" rel="stylesheet"/>
+  <style>
+   .row { display: flex; border-bottom: 1px solid #eee; padding: 10px 0; }
+    .col1, .col2 { flex: 1; padding: 0 10px; }
+    .col2 em { color: #555; }
+    #header { margin-bottom: 2em; border-bottom: 2px solid #000; padding-bottom: 10px; }
+    #header h1 { font-size: 1.8em; margin-bottom: 0.2em; }
+    #wordcount, #part { font-style: italic; color: #666; font-size: 0.95em; }
+    @media (max-width: 768px) {
+      .row { flex-direction: column; }
+      .col1, .col2 { padding: 5px 0; }
+    }
+  </style>
+ </head>
+ <body>
+  <div id="header">
+   <h1>
+    Translation Part 8
+   </h1>
+   <p id="wordcount">
+    Word Count (Part): 2022
+   </p>
+   <p id="part">
+    Part 8
+   </p>
+   <p>
+    Source Language: es / Target Language:
+   </p>
+  </div>
+  <div id="sentence-table">
+   <div class="row">
+    <div class="col1">
+     <p>
+      Le gustaba, por asf decirlo, Horacio Oliveira, con el que tenfa una especie de relacién persecutoria, es decir que a Gregorovius lo exasperaba la presencia de Oliveira en el mismo momento en que se lo encontraba, después de haberlo estado buscando sin confesdrselo, y a Horacio le hacian gracia los misterios baratos con que Gregorovius envolvia sus origenes y sus modos de vida, lo divertia que Gregorovius estuviera enamorado de la Maga y creyera que él no lo sabia, y los dos se admitian y se rechazaban en el mismo momento, con una especie de torear cefiido que era al fin y al cabo uno de los tantos ejercicios que justificaban las reuniones del Club.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      He liked, as much as he said, Horacio Oliveira, with whom he had a kind of persecutory relationship, that is, Gregorovius was exasperated by Oliveira's presence at the same time he found him, after having been looking for him without confessing it, and Horacio made fun the cheap mysteries with which Gregorovius wraps his origin and modes of life, Gregorovius was in love with the magician and believed that he did not know, and the two were admitted and rejected at the same time, with a kind of cephaide bullfight that was after all one of the many exercises that justified the club's meetings.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      Jugaban mucho a hacerse los inteligentes, a organizar series de alusiones que desesperaban a la Maga y ponian furiosa a Babs, les bastaba mencionar de paso cualquier cosa, como ahora que Gregorovius pensaba que verdaderamente entre él y Horacio habfa una especie de persecucién desilusionada, y de inmediato uno de ellos citaba al mastin del cielo, J fled Him, etc.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      They played a lot to become intelligent, to organize series of allusions that desperate the magician and put furious to Babs, were enough to mention anything, as now that Gregorovius thought that it truly between him and Horacio had a kind of disappointed persecution, and immediately one of them quoted the mastin of heaven, J Fold Him, etc.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      , y mientras la Maga los miraba con una especie de humilde desesperacién, ya el otro estaba en el volé tan alto, tan alto que a la caza le di alcance, y acababan riéndose de ellos mismos pero ya era tarde, porque a Horacio le daba asco60 12.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      , and while the magician looked at them with a kind of humble despair, the other was already in the volé so high, so high that hunt reached him, and they ended up laughing at themselves but it was already late, because Horacio was disgusted with 60.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      ese exhibicionismo de la memoria asociativa, y Gregorovius se sentfa aludido por ese asco que ayudaba a suscitar, y entre los dos se instalaba como un resentimiento de cémplices, y dos minutos después reincidfan, y eso, entre otras cosas, eran las sesiones del Club.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      That exhibitionism of the associative memory, and Gregorovius felt alluded to by that disgust that helped to raise, and between the two it was installed as a resentment of cémmplices, and two minutes later reincidfan, and that, among other things, were the sessions of the club.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      —Pocas veces se ha tomado aqui un vodka tan malo —dijo Gregorovius Ilenando el vaso—.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      "Sometimes such a bad vodka has been taken here," Gregorovius said illustrating the glass.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      Lucia, usted me estaba por contar de su nifiez.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      Lucia, you were about to tell me about your child.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      No es que me cueste imagindrmela a orillas del rfo, con trenzas y un color rosado en las mejillas, como mis compatriotas de Transilvania, antes de que se le fueran poniendo palidas con este maldito clima luteciano.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      It is not that it costs me to imagine it on the shores of the rfo, with braids and a pink color on the cheeks, like my compatriots of Transylvania, before they were putting pale with this damn Lutcian climate.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      —;Luteciano?
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      -; Luthate?
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      —pregunté la Maga.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      I asked the magician.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      Gregorovius suspird.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      Gregorovius sigh.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      Se puso a explicarle y la Maga lo escuchaba humildemente y aprendiendo, cosa que siempre hacia con gran intensidad hasta que la distraccidn venfa a salvarla.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      He began to explain to him and the magician listened to him humbly and learning, something that always towards great intensity until the distraction come to save her.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      Ahora Ronald habia puesto un viejo disco de Hawkins, y la Maga parecia resentida por esas explicaciones que le estropeaban la musica y no eran lo que ella esperaba siempre de una explicacién, una cosquilla en la piel, una necesidad de respirar hondo como debia respirar Hawkins antes de atacar otra vez la melodia y como a veces respiraba ella cuando Horacio se dignaba explicarle de veras un verso oscuro, agregdndole esa otra oscuridad fabulosa donde ahora, si él hubiese estado explicando lo de los lutecianos en vez de Gregorovius, todo se hubiera fundido en una misma felicidad, la musica de Hawkins, los lutecianos, la luz de las velas verdes, la cosquilla, la profunda respiracién que era su unica certidumbre irrefutable, algo sdlo comparable a Rocamadour 0 a la boca de Horacio 0 a veces un adagio de Mozart que ya casi no se podifa escuchar de puro arruinado que estaba el disco.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      Now Ronald had put an old Hawkins album, and the magician seemed resentful of those explanations that spoiled her music and were not what she always expected of an explanation, a peel in the skin, a need to breathe deeply how Hawkins should breathe before attacking the melody again and how she sometimes breathed when Horacio dared to explain a dark verse. Fabulosa where now, if he had been explaining about the Luthacies instead of Gregorovius, everything would have fallen into the same happiness, the music of Hawkins, the Luthecians, the light of the green candles, the tickle, the deep breath that was his only irrefutable certainty, something sdlo comparable to Rocamadour 0 to the mouth of Horacio 0 sometimes that you can hardly be able to hear from pure ruined that the album was.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      —No sea asi —dijo humildemente Gregorovius—.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      "It's not like that," Gregorovius said humbly.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      Lo que yo queria era entender un poco mejor su vida, eso que es usted y que tiene tantas facetas.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      What I wanted was to understand your life a little better, what you are and that you have so many facets.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      —Mi vida —dijo la Maga—.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      "My life," said the magician.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      Ni borracha la contarfa.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      Nor drunk the counts.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      Y no me va a entender mejor porque le cuente mi infancia, por ejemplo.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      And it will not understand me better because I tell my childhood, for example.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      No tuve infancia, ademas.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      I had no childhood.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      —Yo tampoco.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      -Me neither.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      En Herzegovina.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      In Herzegovina.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      61 —Yo en Montevideo.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      61 —I in Montevideo.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      Le voy a decir una cosa, a veces 7 suefio con la escuela primaria, es tan horrible que me despierto gritando.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      I am going to tell you one thing, sometimes 7 dreams with primary school, it's so horrible that I wake up screaming.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      Y los quince afios, yo no sé si usted ha tenido alguna vez quince afios.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      And the fifteen years, I do not know if you have ever had fifteen years.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      —Creo que si —dijo Gregorovius inseguro.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      "I think," Gregorovius said insecure.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      —Yo sf, en una casa con patio y macetas donde mi pap4 tomaba mate y lefa revistas asquerosas.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      —I SF, in a house with patio and pots where my dad took mate and lefa disgusting magazines.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      ;A usted le vuelve su papa?
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      ; Your dad turns to you?
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      Quiero decir el fantasma.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      I want to say the ghost.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      —No, en realidad mas bien mi madre —dijo Gregorovius—.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      "No, rather, my mother," Gregorovius said.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      La de Glasgow, sobre todo.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      Glasgow's, especially.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      Mi madre en Glasgow a veces vuelve, pero no es un fantasma; un recuerdo demasiado mojado, eso es todo.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      My mother in Glasgow sometimes returns, but it is not a ghost; A memory too wet, that's all.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      Se va con alka seltzer, es facil.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      He leaves with Alka Sethzer, it's easy.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      ;Entonces a usted.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      ; Then to you.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      .
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      .
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      .
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      .
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      ?
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      ?
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      —Qué sé yo —dijo la Maga, impaciente—.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      "What do I know," said the magician, impatient.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      Es esa musica, esas velas verdes, Horacio ahi en ese rincén, como un indio.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      It is that music, those green candles, Horacio Ahi in that rincén, like an Indian.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      sPor qué le tengo que contar cémo vuelve?
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      I have to tell you how much it comes back?
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      Pero hace unos dias me habia quedado en casa esperando a Horacio, ya habia caido la noche, yo estaba sentada cerca de la cama y afuera llovia, un poco como en ese disco.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      But a few days ago I had stayed at home waiting for Horacio, I had already fallen the night, I was sitting near the bed and outside Llovia, a little like on that album.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      Si, era un poco asf, yo miraba la cama esperando a Horacio, no sé cémo la colcha de la cama estaba puesta de una manera, de golpe vi a papa de espaldas y con la cara tapada como siempre que se emborrachaba y se iba a dormir.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      Yes, it was a bit of Asf, I looked at the bed waiting for Horacio, I don't know how the bed quilt was put in a way, suddenly I saw Papa on his back and with my face covered as if always got drunk and went to sleep.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      Se vefan las piernas, la forma de una mano sobre el pecho.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      The legs are seen, the shape of one hand on the chest.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      Sentf que se me paraba el pelo, queria gritar, en fin, eso que una siente, a lo mejor usted ha tenido miedo alguna vez.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      Sentf that stopped my hair, I wanted to shout, in short, that one feels, maybe you have ever been afraid.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      .
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      .
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      .
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      .
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      Queria salir corriendo, la puerta estaba tan lejos, en el fondo de pasillos y mds pasillos, la puerta cada vez mas lejos y se veia subir y bajar la colcha rosa, se ofa el ronquido de mi papa, de un momento a otro iba a asomar una mano, los ojos, y después la nariz como un gancho, no, no vale la pena que le cuente todo eso, al final erité tanto que vino la vecina de abajo y me dio té, y después Horacio me traté de histérica.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      I wanted to run, the door was so far, at the bottom of halls and more corridors, the door further and further and the pink quilt was wore, the snoring of my potatoes, from one moment to another I was going to look out a hand, the eyes, and then the nose as a hook, no, it is not worth it that tells him all that, in the end I erected so much that the neighbor came so and then I tried hysterically.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      Gregorovius le acaricié el pelo, y la Maga agaché la cabeza.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      Gregorovius stroked her hair, and the magician crouched her head.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      Ya esta, pensd Oliveira, renunciando a seguir los juegos de Dizzy Gillespie sin red en el trapecio mds alto, ya esta, tenia que ser.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      This one, Pensd Oliveira, renouncing to follow the Gillespie -free Dizzy Games without a network in the MDs Alto, already this, had to be.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      Anda loco por esa mujer, y se lo dice asf, con los diez dedos.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      He is crazy about that woman, and says it, with the ten fingers.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      Cémo se repiten los juegos.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      The games are repeated.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      Calzamos en moldes mas que usados, aprendemos como idiotas cada papel mds que sabido.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      We heal in more than used molds, we learn as idiots every more paper that is known.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      Pero si soy yo mismo acaricidndole el pelo, y ella me62 2.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      But if I am thoroughly stroking her hair, and she me62 2.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      estd contando sagas rioplatenses, y le tenemos ldstima, entonces hay que Ilevarla a casa, un poco bebidos todos, acostarla despacio acaricidndola, soltandole la ropa, despacito, despacito cada botén, cada cierre relampago, y ella no quiere, quiere, no quiere, se endereza, se tapa la cara, llora, nos abraza como para proponernos algo sublime, ayuda a bajarse el slip, suelta un zapato con un puntapié que nos parece una protesta y nos excita a los ultimos arrebatos, ah, es innoble, innoble.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      He is counting from Rioplateans, and we have him Ldstima, so we must like her home, a little drinks all, to lay her slow Slip, releases a shoe with a kick that seems to us a protest and excites us to the last outbursts, ah, it is innoble, innoble.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      Te voy a tener que romper la cara, Ossip Gregorovius, pobre amigo mio.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      I'm going to break your face, Ossip Gregorovius, poor friend of mine.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      Sin ganas, sin l4stima, como eso que esta soplando Dizzy, sin ld4stima, sin ganas, tan absolutamente sin ganas como eso que esta soplando Dizzy.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      Without desire, without l4stima, like what is blowing Dizzy, without ld4stima, without desire, as absolutely without desire as what is blowing Dizzy.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      —Un perfecto asco —dijo Oliveira—.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      "A perfect disgust," said Oliveira.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      Sacame esa porqueria del plato.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      Take out that reason from the plate.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      Yo no vengo mas al Club si aqui hay que escuchar a ese mono sabio.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      I do not come to the club if you have to listen to that wise monkey.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      —AI sefior no le gusta el bop —dijo Ronald, sarcdstico—.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      "Ai Sefior doesn't like bop," Ronald said, sarcdostico.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      Esperd un momento, en seguida te pondremos algo de Paul Whiteman.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      Wait a moment, we will immediately put some Paul Whiteman.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      —Solucién de compromiso —dijo Etienne—.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      "Sorry for commitment," Etienne said.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      Coincidencia de todos los sufragios: oigamos a Bessie Smith, Ronald de mi alma, la paloma en la jaula de bronce.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      Coincidence of all votes: let's hear Bessie Smith, Ronald of my soul, the dove in the bronze cage.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      Ronald y Babs se largaron a refr, no se vefa bien por qué, y Ronald buscé en la pila de viejos discos.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      Ronald and Babs started Ref, did not sell well why, and Ronald looked in the old album stack.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      La puta crepitaba horriblemente, algo empezé a moverse en lo hondo como capas y capas de algodones entre la voz y los ofdos, Bessie cantando con la cara vendada, metida en un canasto de ropa sucia, y la voz salfa cada vez mds ahogada, pegdndose a los trapos salfa y clamaba sin célera ni limosna, J wanna be somebody's baby doll, se replegaba a la espera, una voz de esquina y de casa atestada de abuelas, to be somebodys baby doll, mas caliente y anhelante, jadeando ya J wanna be somebodys baby doll.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      The whore cracking horribly, something I began to move in the deep like layers and layers of cotton between the voice and the ofdos, Bessie singing with my face bandaged, stuck in a basket of dirty clothes, and the voice salt every time more and more drowned, sticking to the rags salt and cried without a fuck or silt He fell waiting, a corner voice and from a house crowded with grandmothers, to be sombitys baby doll, hottest and longing, gasping already J Wanna Be sombitys baby doll.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      .
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      .
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      .
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      .
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      Queméandose la boca con un largo trago de vodka, Oliveira paso el brazo por los hombros de Babs y se apoyé en su cuerpo confortable.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      Burning his mouth with a long vodka drink, Oliveira passed his arm through Babs's shoulders and leaned on his comfortable body.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      Los intercesores, pensd, hundiéndose blandamente en el humo del tabaco.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      The intercessors, thought, sinking softly into the smoke of tobacco.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      La voz de Bessie se adelgazaba hacia el fin del disco, ahora Ronald daria vuelta la placa de bakelita (si era bakelita) y de ese pedazo de materia gastada renacerfa una vez mds Empty Bed Blues, una noche de los afios veinte en63 algun rincén de los Estados Unidos.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      Bessie's voice was thinned towards the end of the album, now Ronald would turn the Bakelita plaque (if it was Bakelita) and that piece of worn matter reborn once Mds empty Bed Blues, one night of the years twenty in63 some rincén of the United States.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      Ronald habfa cerrado los 12 ojos, las manos apoyadas en las rodillas marcaban apenas el ritmo.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      Ronald had closed the 12 eyes, his hands resting on his knees marked the rhythm.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      También Wong y Etienne habian cerrado los ojos, la pieza estaba casi a oscuras y se oja chirriar la pia en el viejo disco, a Oliveira le costaba creer que todo eso estuviera sucediendo.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      Wong and Etienne also had closed their eyes, the piece was almost dark and the pia was squeezed in the old album, Oliveira had a hard time believing that all that was happening.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      ;Por qué alli, por qué el Club, esas ceremonias esttipidas, por qué era asf ese blues cuando lo cantaba Bessie?
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      Why there, why the club, those ceremonies are, why was that blues when Bessie sang?
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      Los intercesores, pensé otra vez, hamacdndose con Babs que estaba completamente borracha y lloraba en silencio escuchando a Bessie, estremeciéndose a compds 0 a contratiempo, sollozando para adentro para no alejarse por nada de los blues de la cama vacia, la mafiana siguiente, los zapatos en los charcos, el alquiler sin pagar, el miedo a la vejez, imagen cenicienta del amanecer en el espejo a los pies de la cama, los blues, el cafard infinito de la vida.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      The intercessors, I thought again, roaming with Babs that was completely drunk and crying silently listening to Bessie, shuddered to compads 0 to setback, sobbing inside so as not to get away from anything from the blues of the empty bed, the next mafian The bed, the blues, the infinite cafard of life.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      Los intercesores, una irrealidad mostrandonos otra, como los santos pintados que muestran el cielo con el dedo.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      The intercessors, an unreality showing us another, like the painted saints who show the sky with their finger.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      No puede ser que esto exista, que realmente estemos aqui, que yo sea alguien que se llama Horacio.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      It cannot be that this exists, that we are really here, that I am someone called Horacio.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      Ese fantasma ahf, esa voz de una negra muerta hace veinte afios en un accidente de auto: eslabones en una cadena inexistente, c6mo nos sostenemos aqui, como podemos estar reunidos esta noche si no es por un mero juego de ilusiones, de reglas aceptadas y consentidas, de pura baraja en las manos de un tallador inconcebible.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      That ghost AHF, that voice of a dead black twenty years ago in a car accident: links in a non -existent chain, how we hold us here, as we can be gathered tonight if it is not for a mere game of illusions, of accepted and spoiled rules, of pure deck in the hands of an inconceivable carver.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      .
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      .
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      .
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      .
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      —No llorés —le dijo Oliveira a Babs, habldndole al ofdo—.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      "Don't cry," Oliveira told Babs, talking to the Ofdo.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      No llorés, Babs, todo esto no es verdad.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      Do not cry, Babs, all this is not true.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      —Oh, sf, oh, sf que es verdad —dijo Babs, sondandose—.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      "Oh, sf, oh, sf it's true," said Babs, probing.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      Oh, sf que es verdad.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      Oh, sf that is true.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      —Ser4 —dijo Oliveira, besdndola en la mejilla— pero no es la verdad.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      "Ser4," said Oliveira, kissing her on the cheek, "but it's not the truth."
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      —Como esas sombras —dijo Babs, trag4ndose los mocos y moviendo la mano de un lado a otro— y uno est tan triste, Horacio, porque todo es tan hermoso.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      "As those shadows," Babs said, swallowing the snacks and moving the hand from one side to another, "and one is so sad, Horacio, because everything is so beautiful."
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      Pero todo eso, el canto de Bessie, el arrullo de Coleman Hawkins, ;no eran ilusiones, y no eran algo todavia peor, la ilusién de otras ilusiones, una cadena vertiginosa hacia atrds, hacia un mono mirdndose en el agua el primer dia del mundo?
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      But all that, Bessie's song, Coleman Hawkins' lullaby, were not illusions, and they weren't still worse, the illusions of other illusions, a vertiginous chain towards Trangs, towards a monkey morting in the water the first day of the world?
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      Pero Babs lloraba, Babs habia dicho: Oh sf, oh sf que es verdad, y Oliveira, un poco borracho él también, sentia ahora64 12 que la verdad estaba en eso, en que Bessie y Hawkins fueran ilusiones, porque solamente las ilusiones eran capaces de mover a sus fieles, las ilusiones y no las verdades.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      But Babs cried, Babs had said: Oh sf, oh sf which is true, and Oliveira, a little drunk he also felt64 12 that the truth was in that, in which Bessie and Hawkins were illusions, because only the illusions were able to move their faithful, the illusions and not the truths.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      Y habia mds que eso, habfa la intercesién, el acceso por las ilusiones a un plano, a una zona inimaginable que hubiera sido inttil pensar porque todo pensamiento lo destrufa apenas procuraba cercarlo.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      And there were more than that, there was the intercess, access by illusions to a plane, to an unimaginable zone that would have been intimate to think because all thought destroyed it barely tried to fence it.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      Una mano de humo lo llevaba de la mano, lo iniciaba en un descenso, si era un descenso, le mostraba un centro, si era un centro, le ponfa en el estémago, donde el vodka hervia dulcemente cristales y burbujas, algo que otra ilusién infinitamente hermosa y desesperada habia llamado en algtin momento inmortalidad.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      A smoke hand carried him by the hand, he began in a descent, if it was a descent, he showed him a center, if it was a center, put him in the estemago, where vodka boiled sweetly crystals and bubbles, something that another illusively infinitely beautiful and desperately called in all -time immortality.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      Cerrando los ojos alcanzé a decirse que si un pobre ritual era capaz de excentrarlo asf para mostrarle mejor un centro, excentrarlo hacia un centro sin embargo inconcebible, tal vez no todo estaba perdido y alguna vez, en otras circunstancias, después de otras pruebas, el acceso seria posible.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      Closing my eyes, it was said that if a poor ritual was able to eccentrate it ASF to better show him a center, to eccentrate it towards a center however inconceivable, perhaps not everything was lost and ever, in other circumstances, after other tests, access would be possible.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      ;Pero acceso a qué, para qué?
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      ; But access to what, for what?
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      Estaba demasiado borracho para sentar por lo menos una hipétesis de trabajo, hacerse una idea de la posible ruta.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      I was too drunk to sit at least one work hypétethes, get an idea of the possible route.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      No estaba lo bastante borracho para dejar de pensar consecutivamente, y le bastaba ese pobre pensamiento para sentir que lo alejaba cada vez mds de algo demasiado lejano, demasiado precioso para mostrarse a través de esas nieblas torpemente propicias, la niebla vodka, la niebla Maga, la niebla Bessie Smith.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      He was not drunk enough to stop thinking consecutively, and that poor thought was enough to feel that he was moving away from something too distant, too precious to show himself through those awkwardly conducive fogs, the vodka fog, the Maga fog, the fog Bessie Smith.
+     </p>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col1">
+     <p>
+      Empezé a ver anillos verdes que giraban vertiginosamente, abrié los ojos.
+     </p>
+    </div>
+    <div class="col2">
+     <p>
+      I started to see green rings that spinned vertiginously, opened my eyes.
+     </p>
+    </div>
+   </div>
+  </div>
+ </body>
+</html>
