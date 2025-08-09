@@ -70,6 +70,7 @@ REPLACE_MAP = {
 
     # common accent recoveries where OCR drops accents
     "tambien": "también",
+    "subj": "subí",
     "estaba": "estaba",
     "mas ": "más ",
     "mas,": "más,",
