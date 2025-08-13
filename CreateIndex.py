@@ -57,10 +57,10 @@ TEMPLATE = """<!DOCTYPE html>
       const current = window.getComputedStyle(contents).display;
       contents.style.display = current === 'none' ? 'block' : 'none';
     }});
-  }}); 
+  }});
 </script>
 </body>
-</html> 
+</html>
 """
 
 def extract_number(title):
@@ -84,15 +84,28 @@ def get_files_by_folder():
                 filename = quote(rel_path.replace("\\", "/"))
                 folder = os.path.dirname(rel_path)
                 folder_name = folder if folder != "." else "Root"
+
+                # Extract title from <title> tag if available
                 with open(os.path.join(root, file), encoding="utf-8") as f:
                     soup = BeautifulSoup(f, "html.parser")
                     title_tag = soup.title
                     title = title_tag.string.strip() if title_tag and title_tag.string else file
+
                 number = extract_number(title)
+
+                # ✅ New conditional logic
                 if number != float('inf'):
+                    # If there's a "Part N" in the title, keep original style
                     link_title = f"{folder_name}: page {number}"
                 else:
-                    link_title = f"{folder_name}: untitled"
+                    if folder_name == "Vulgate":
+                        # For Vulgate folder, just show the filename without extension
+                        base_name = os.path.splitext(file)[0]
+                        link_title = base_name
+                    else:
+                        # Default fallback for other folders
+                        link_title = f"{folder_name}: untitled"
+
                 entries.append({
                     "filename": filename,
                     "folder": folder_name,
