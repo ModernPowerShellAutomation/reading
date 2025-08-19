@@ -2,7 +2,7 @@ import os
 from bs4 import BeautifulSoup
 
 # ===== CONFIGURATION =====
-INPUT_FOLDER = r"/Users/mikegallagher/repos/Archive/reading-1/docs/VieSpectrale"
+INPUT_FOLDER = r"/Users/mikegallagher/translate/dailyarticle_output"
 # ========================
 
 def process_html_file(file_path):
