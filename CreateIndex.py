@@ -30,8 +30,7 @@ TEMPLATE = """<!DOCTYPE html>
       border-bottom: 1px solid #ddd;
     }}
     .folder-contents {{
-      display: none;
-      padding-left: 1rem;
+      display: none; 
     }}
     .folder-contents a {{
       display: block;
